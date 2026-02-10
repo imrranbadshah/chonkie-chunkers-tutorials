@@ -13,3 +13,5 @@ numpy
 chromadb
 pinecone-client
 datasets
+
+python-dotenv
